@@ -1,0 +1,9 @@
+name: Steal
+version: '${project.version}'
+main: tech.adelemphii.steal.Steal
+api-version: 1.16
+
+commands:
+  steal:
+    description: Steal an item from a player's ender chest
+    usage: /steal <player>
